@@ -6,6 +6,7 @@ Base URL
 http://localhost:8080/ 
 Authentication
 Authentication is not required for accessing the endpoints.
+
 Endpoints
 1. Add Book
 •	Method: POST
